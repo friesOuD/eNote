@@ -1,2 +1,3 @@
 # eNote
-system for work with note
+Система заметок с использованием Golang, Python и микросервисной архитектуры.
+
